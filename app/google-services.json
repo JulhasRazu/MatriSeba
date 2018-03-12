@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1007719985812",
+    "firebase_url": "https://matriseba-853ab.firebaseio.com",
+    "project_id": "matriseba-853ab",
+    "storage_bucket": "matriseba-853ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007719985812:android:55fbcca7effe8083",
+        "android_client_info": {
+          "package_name": "com.example.hp.matriseba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007719985812-9jh359if9dvd2t4scqc1k82e9qs62tm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hqxsS_kGrFP1NcIRp-dZ03k9p9Tc6zQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
